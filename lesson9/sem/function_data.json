@@ -1,0 +1,24 @@
+[
+  {
+    "name": "example",
+    "args": [
+      1,
+      2
+    ],
+    "kwargs": {
+      "c": 3
+    },
+    "res": 6
+  },
+  {
+    "name": "example",
+    "args": [
+      4,
+      5
+    ],
+    "kwargs": {
+      "c": 6
+    },
+    "res": 15
+  }
+]
